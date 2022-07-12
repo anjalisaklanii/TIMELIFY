@@ -3,9 +3,11 @@
 # Features
   1.Create a playlist containing a Spotify artist's discography in chronological order.
   
-2.Timelineify generates a chronological playlist of an artist's entire discography with a few clicks!\n
-3.Uses Spotify API to create the playlist\n
-4.Faster as 10x times.\n
+  2.Timelineify generates a chronological playlist of an artist's entire discography with a few clicks!
+  
+  3.Uses Spotify API to create the playlist.
+  
+  4.Faster as 10x times.
 
 ![Screenshot 2022-07-12 195901](https://user-images.githubusercontent.com/96676636/178518862-7e5f5e8d-c5c5-4d60-8264-56285d2a8f79.jpg)
 ![Screenshot 2022-07-12 200011](https://user-images.githubusercontent.com/96676636/178518920-ca431c93-bf47-4e9e-b9bf-49d39747c8cc.jpg)
