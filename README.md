@@ -1,4 +1,4 @@
-# Timelineify
+# Timelify
 
 # Features
   1.Create a playlist containing a Spotify artist's discography in chronological order.
